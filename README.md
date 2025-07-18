@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi, I'm Tulika
 
-<!--
-**Tulika-65/Tulika-65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Statistics Major at Kirori Mal College, University of Delhi, India  
+💡 Sharing my journey and learnings in tech  
+🔍 Currently exploring the world of data science and learning to apply programming to real-world problems
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently learning:
+- Python for Data Science  
+- Basics of SQL  
+- Working on mini projects to apply what I learn
+  
+
+### 📫 Find me on [Linkedin](www.linkedin.com/in/tulikag36)
