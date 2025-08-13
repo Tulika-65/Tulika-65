@@ -11,4 +11,4 @@
 - Working on mini projects to apply what I learn
   
 
-### 📫 Find me on [Linkedin](www.linkedin.com/in/tulikag36)<br/>
+### 📫 Find me on <a href="www.linkedin.com/in/tulikag36">LinkedIn</a>
